@@ -3510,3 +3510,45 @@ input, select, textarea {
 			}
 
 	}
+
+
+
+	.textcenter {
+		text-align: center;
+	}
+
+	#five h4 {
+		text-align: center;
+		font-size: 1em;
+	}
+
+	.radius  {
+		filter: grayscale(100%);
+		
+		
+		width: 300px !important;
+		height: auto;
+	}
+
+	#headshot {
+		border-radius: 20px !important;
+	}
+
+	.realspot {
+		
+		margin: 0;
+		padding: 0 ;
+		display: flex;
+		align-items: center;
+		justify-content: space-evenly;
+	}
+
+	#four p {
+		text-align: left;
+		color:white;
+
+	}
+
+	#three li {
+		text-align: left;
+	}
