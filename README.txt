@@ -9,6 +9,8 @@ Link to project: levi-milli.netlify.app
 
 ![alt tag](https://media.giphy.com/media/BDxO2xd9bObQNeDL8q/giphy.gif)
 
+![alt tag](https://media.giphy.com/media/CONSF5qegQrLdmvG45/giphy.gif)
+
 alt tag
 
 How It's Made:
