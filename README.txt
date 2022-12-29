@@ -7,8 +7,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Link to project: levi-milli.netlify.app
 
-<a href="https://levi-milli.netlify.app/">https://media.giphy.com/media/BDxO2xd9bObQNeDL8q/giphy.gif</a>
-
+![alt tag](https://media.giphy.com/media/BDxO2xd9bObQNeDL8q/giphy.gif)
 
 alt tag
 
