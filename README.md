@@ -16,10 +16,12 @@ Its a landing page for my work and information. It didn't need to be super compl
 Take a look at these couple repos that I have in my portfolio:
 
 
-**CryptoTracker Crypto wallet:** https://github.com/LeviMilli/Crypto-Wallet-project
+**CryptoTrove:** https://github.com/LeviMilli/CryptoTrove
+
+**FoodMate:** https://github.com/LeviMilli/foodSnitch-server
 
 **MewTwo's Mad Dash Canvas HTML game:** https://github.com/LeviMilli/mewtwo-game
 
-**The Notorius Codewars:** https://github.com/LeviMilli/Codewars
+**Codewars updated daily:** https://github.com/LeviMilli/Codewars
 
 
